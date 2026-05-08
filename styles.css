@@ -507,7 +507,7 @@ section {
 }
 
 .about-text p {
-  color: var(--chrome);
+  /* ───color: var(--chrome);*/
   line-height: 1.75;
   font-size: 1rem;
   margin-bottom: 20px;
