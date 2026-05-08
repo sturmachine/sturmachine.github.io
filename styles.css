@@ -586,7 +586,7 @@ section {
 }
 
 .value-card p {
-  color: var(--muted);
+  /*--color: var(--muted);--*/
   font-size: 0.9rem;
   line-height: 1.6;
   font-weight: 300;
